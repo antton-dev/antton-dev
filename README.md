@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antton-dev
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning at Grenoble INP - Esisar, UGA (engineering school) (Valence, France)
-- 📫 How to reach me ? post an issue on a repos, discord : @antton64_26
+- 📫 How to reach me ? post an issue on a repos, discord : @antton64_26, instagram, linkedin ou email.
 
 bye bye ! 👋
 
